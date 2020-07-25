@@ -1,0 +1,10 @@
+ ˛∫æ   9 *  HruthvikCalculator/Modulus  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LHruthvikCalculator/Modulus; mod (II)D	    java/lang/System   out Ljava/io/PrintStream;  Modulus by zero is not possible
+    java/io/PrintStream   println (Ljava/lang/String;)V  java/lang/ArithmeticException x I y num D ae Ljava/lang/ArithmeticException; StackMapTable 
+SourceFile Modulus.java !               /     *∑ ±    
+                            ù     JpáJß :≤ ∂ )Ø    
+   
+         	  
+ 
+         4              !     " !    # $    % &  '    ˇ 
+    	  (    )
